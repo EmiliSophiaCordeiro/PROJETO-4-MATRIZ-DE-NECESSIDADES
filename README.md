@@ -22,7 +22,11 @@ Cinco perguntas sobre importância e satisfação:
 -------------------------------------PERGUNTAS---------------------------------------
 
 1-Em uma escala de 1 a 5 (1 sendo pouco importante e 5 sendo muito importante), qual a importância de um serviço como o CH para o seu desenvolvimento como programador?
+
 2-Você acredita que um serviço de revisão de código como o CH poderia acelerar seu processo de aprendizado? Por quê?
+
 3-Qual o nível de satisfação você esperaria de um serviço que ofereça correções e feedback detalhado sobre seus códigos?
+
 4-Quais são os principais benefícios que você espera obter ao utilizar um serviço como o CH?
+
 5-Você recomendaria o CodeHelp.ds (CH) para outros programadores iniciantes? Por quê?

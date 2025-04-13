@@ -30,3 +30,26 @@ Cinco perguntas sobre importância e satisfação:
 4-Quais são os principais benefícios que você espera obter ao utilizar um serviço como o CH?
 
 5-Você recomendaria o CodeHelp.ds (CH) para outros programadores iniciantes? Por quê?
+
+--------------------------------RESPONDENDO A LOGICTECH--------------------------------
+
+1. Exemplos de trabalhos produzidos pela LogicTech
+Importância: Ter acesso a exemplos de trabalhos anteriores é considerado altamente relevante. Isso contribui para uma maior confiança na empresa e auxilia na compreensão da qualidade e estilo dos serviços oferecidos.
+Satisfação: De modo geral, o nível de satisfação é bom. Há bons materiais disponíveis, porém, seria interessante concentrá-los em um portfólio mais organizado e de fácil navegação.
+
+2. Postagens no Instagram da LogicTech
+Importância: A presença ativa nas redes sociais, especialmente no Instagram, é valorizada por fortalecer o relacionamento com o público e transmitir dinamismo e atualizações frequentes.
+Satisfação: A percepção é positiva, mas com espaço para avanços. O conteúdo publicado é de qualidade, embora a frequência e variedade das postagens possam ser aprimoradas para manter o engajamento constante.
+
+3. Acessibilidade da LogicTech
+Importância: A clareza na comunicação sobre os serviços, processos e funcionamento da empresa é vista como fundamental para uma boa experiência do cliente.
+Satisfação: O nível de satisfação é satisfatório. A maioria das informações está disponível de forma acessível, mas pode haver oportunidades de tornar alguns pontos mais diretos e didáticos.
+
+4. Atendimento da LogicTech
+Importância: Um atendimento de qualidade é essencial e amplamente valorizado, sendo fator decisivo na percepção geral sobre a empresa.
+Satisfação: O atendimento prestado pela LogicTech é amplamente elogiado. A equipe demonstra agilidade, cordialidade e disposição para solucionar dúvidas ou demandas com eficiência.
+
+5. Qualidade dos produtos ou serviços da LogicTech
+Importância: A excelência na entrega de produtos e serviços é o aspecto mais importante para o cliente, refletindo diretamente na reputação e fidelização.
+Satisfação: A qualidade dos serviços é bem avaliada. Os resultados demonstram comprometimento e profissionalismo, correspondendo às expectativas dos clientes. A busca contínua por inovação pode fortalecer ainda mais esse diferencial.
+
